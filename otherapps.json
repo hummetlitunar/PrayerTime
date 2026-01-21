@@ -27,6 +27,13 @@
       "description": "Tibb tələbələri üçün Rezidenturaya hazırlıq proqramı",
       "icon_url": "https://play-lh.googleusercontent.com/H6N3DEcyp3qvNwGwuHSiVE87WP9DNDDsu_7HTBL1bCBtIcpbUXBc3cZlDPeFTZUrBA=w480-h960-rw",
       "play_store_url": "https://play.google.com/store/apps/details?id=com.hummetlitunar.rezidentunar"
+    },
+        {
+      "id": "com.hummetlitunar.rezidentunar",
+      "name": "Söz Oyunu |Telegram bot|",
+      "description": "Telegramda oyun oynaya biləcəyiniz bot",
+      "icon_url": "blob:https://web.telegram.org/60d52537-e6e6-4140-a304-1d19c4e783b9",
+      "play_store_url": "https://t.me/SozUstasiBot"
     }
   ]
 }
