@@ -1,39 +1,44 @@
 {
-  "apps": [
+  "items": [
     {
+      "type": "app",
       "id": "com.hummetlitunar.tunartabu",
       "name": "Tabu Azərbaycan",
       "description": "Əyləncəli tabu oyunu",
       "icon_url": "https://play-lh.googleusercontent.com/-VaqAKUxqm1eMIwcnDHpOJ1sfqHG_fWiKwenk6LNYlQXVbw364_R2l6H_KhgmsuX2Lg=w480-h960-rw",
-      "play_store_url": "https://play.google.com/store/apps/details?id=com.hummetlitunar.tunartabu"
+      "url": "https://play.google.com/store/apps/details?id=com.hummetlitunar.tunartabu"
     },
-        {
+    {
+      "type": "app",
       "id": "com.hummetlitunar.stickeraquarium",
       "name": "Sticker Aquarium",
       "description": "Hər halınızı xarakterizə edən stickerlər",
       "icon_url": "https://play-lh.googleusercontent.com/and_0zRBQDQEvjnmsNxB7Z6mEW_NuxPP6kOze81f9QCOqYPXtAQqXzPUnYtRXp-jAg=w480-h960-rw",
-      "play_store_url": "https://play.google.com/store/apps/details?id=com.hummetlitunar.stickeraquarium"
+      "url": "https://play.google.com/store/apps/details?id=com.hummetlitunar.stickeraquarium"
     },
-        {
+    {
+      "type": "app",
       "id": "com.hummetlitunar.xbt",
       "name": "XBT-10",
       "description": "Həkimlər üçün XBT proqramı",
       "icon_url": "https://play-lh.googleusercontent.com/JV8vMrlV0BVruXqf5LPIRXH8mhqCY6a18HP2ZykRg8Ejm4L5saO26Og0LdOIAx9zHRey=w480-h960-rw",
-      "play_store_url": "https://play.google.com/store/apps/details?id=com.hummetlitunar.xbt10"
+      "url": "https://play.google.com/store/apps/details?id=com.hummetlitunar.xbt10"
     },
-        {
+    {
+      "type": "app",
       "id": "com.hummetlitunar.rezidentunar",
       "name": "RezidenTunar",
       "description": "Tibb tələbələri üçün Rezidenturaya hazırlıq proqramı",
       "icon_url": "https://play-lh.googleusercontent.com/H6N3DEcyp3qvNwGwuHSiVE87WP9DNDDsu_7HTBL1bCBtIcpbUXBc3cZlDPeFTZUrBA=w480-h960-rw",
-      "play_store_url": "https://play.google.com/store/apps/details?id=com.hummetlitunar.rezidentunar"
+      "url": "https://play.google.com/store/apps/details?id=com.hummetlitunar.rezidentunar"
     },
-        {
-      "id": "com.hummetlitunar.rezidentunar",
-      "name": "Söz Oyunu   |Telegram bot|",
+    {
+      "type": "bot",
+      "id": "com.hummetlitunar.telegrambot",
+      "name": "Söz Oyunu",
       "description": "Telegramda oyun oynaya biləcəyiniz bot",
-      "icon_url": "blob:https://web.telegram.org/60d52537-e6e6-4140-a304-1d19c4e783b9",
-      "play_store_url": "https://t.me/SozUstasiBot"
+      "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png",
+      "url": "https://t.me/SozUstasiBot"
     }
   ]
 }
