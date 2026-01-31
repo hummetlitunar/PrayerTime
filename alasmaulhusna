@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "arabic": "الرَّحْمَن",
+        "reading": "Ər-Rəhman",
+        "meaning": "Dünyada bütün məxluqata mərhəmət edən, şəfqət göstərən, lütfkar olan.",
+        "reference": "Fatihə surəsi, 3-cü ayə"
+    },
+    {
+        "id": 2,
+        "arabic": "الرَّحِيم",
+        "reading": "Ər-Rəhim",
+        "meaning": "Axirətdə yalnız möminlərə mərhəmət edən.",
+        "reference": "Fatihə surəsi, 3-cü ayə"
+    },
+    {
+        "id": 3,
+        "arabic": "الْمَلِك",
+        "reading": "Əl-Məlik",
+        "meaning": "Bütün kainatın sahibi, mütləq hökmdarı.",
+        "reference": null
+    },
+    {
+        "id": 4,
+        "arabic": "الْقُدُّوس",
+        "reading": "Əl-Quddus",
+        "meaning": "Hər cür nöqsandan uzaq, pak və müqəddəs olan.",
+        "reference": "Həşr surəsi, 23-cü ayə"
+    },
+    {
+        "id": 5,
+        "arabic": "السَّلاَم",
+        "reading": "Əs-Salam",
+        "meaning": "Salamatlıq verən, təhlükələrdən qoruyan, cənnətdə qullarına salam verən.",
+        "reference": null
+    }
+]
