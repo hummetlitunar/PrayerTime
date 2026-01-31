@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Namaz vaxtları niyə fərqlidir?",
+    "answer": "Namaz vaxtları coğrafi mövqeyə və istifadə olunan hesablama metoduna görə dəyişə bilər."
+  },
+  {
+    "question": "Qibləni necə tapa bilərəm?",
+    "answer": "Tətbiq daxilindəki Qiblə kompasını istifadə edərək qiblə istiqamətini tapa bilərsiniz."
+  },
+  {
+    "question": "Bildirişlər niyə gəlmir?",
+    "answer": "Telefonunuzun parametrlərindən tətbiqə bildiriş icazəsi verdiyinizdən və batareya qənaət rejiminin tətbiqi məhdudlaşdırmadığından əmin olun."
+  }
+]
