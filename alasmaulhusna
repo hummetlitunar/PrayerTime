@@ -1,37 +1,695 @@
 [
     {
         "id": 1,
-        "arabic": "الرَّحْمَن",
-        "reading": "Ər-Rəhman",
-        "meaning": "Dünyada bütün məxluqata mərhəmət edən, şəfqət göstərən, lütfkar olan.",
-        "reference": "Fatihə surəsi, 3-cü ayə"
+        "arabic": "الله",
+        "reading": "Allah",
+        "meaning": "Hər adın xüsusiyyətlərini ehtiva edən öz ad. Özündən başqa ilahı olmayan yeganə Allah. Bu ad Uca Allahın bənzərsiz adıdır. Bu baxımdan başqa adlarla ifadə olunan bütün gözəl sifətləri və ilahi sifətləri özündə ehtiva edir.",
+        "reference": null
     },
     {
         "id": 2,
-        "arabic": "الرَّحِيم",
-        "reading": "Ər-Rəhim",
-        "meaning": "Axirətdə yalnız möminlərə mərhəmət edən.",
-        "reference": "Fatihə surəsi, 3-cü ayə"
+        "arabic": "الرَّحْمَن",
+        "reading": "Ər-Rəhman",
+        "meaning": "Dünyadakı bütün məxluqata mərhəmətli, şəfqətli və xeyirxah olan.",
+        "reference": null
     },
     {
         "id": 3,
-        "arabic": "الْمَلِك",
-        "reading": "Əl-Məlik",
-        "meaning": "Bütün kainatın sahibi, mütləq hökmdarı.",
+        "arabic": "الرَّحِيم",
+        "reading": "Ər-Rəhim",
+        "meaning": "Axirətdə sadəcə möminlərə mərhəmət edən.",
         "reference": null
     },
     {
         "id": 4,
-        "arabic": "الْقُدُّوس",
-        "reading": "Əl-Quddus",
-        "meaning": "Hər cür nöqsandan uzaq, pak və müqəddəs olan.",
-        "reference": "Həşr surəsi, 23-cü ayə"
+        "arabic": "الْمَلِك",
+        "reading": "Əl-Məlik",
+        "meaning": "Mal sahibi, kainat, mülk sahibi və hökmranlığı daimi olan.",
+        "reference": null
     },
     {
         "id": 5,
+        "arabic": "الْقُدُّوس",
+        "reading": "Əl-Quddus",
+        "meaning": "O kəs ki, hər cür nöqsanlardan uzaq və hər cür nemətlərə layiqdir. Müqəddəs.",
+        "reference": null
+    },
+    {
+        "id": 6,
         "arabic": "السَّلاَم",
         "reading": "Əs-Salam",
-        "meaning": "Salamatlıq verən, təhlükələrdən qoruyan, cənnətdə qullarına salam verən.",
+        "meaning": "Bütün təhlükələrdən qurtulmaq. O kəs ki, cənnətdə xoşbəxt bəndələrinə salam verir.",
+        "reference": null
+    },
+    {
+        "id": 7,
+        "arabic": "الْمُؤْمِن",
+        "reading": "Əl-Mömin",
+        "meaning": "Güvən verən, əmin edən, qoruyan, iman nuru verən.",
+        "reference": null
+    },
+    {
+        "id": 8,
+        "arabic": "الْمُهَيْمِن",
+        "reading": "Əl-Muheymin",
+        "meaning": "Hər şeyi görən və nəzarət edən, hər bir varlığın etdiyindən xəbərdar olan.",
+        "reference": null
+    },
+    {
+        "id": 9,
+        "arabic": "الْعَزِيز",
+        "reading": "Əl-Əziz",
+        "meaning": "Şərəf sahibi, hər şeyə qalib gələn, qarşısıalınmaz.",
+        "reference": null
+    },
+    {
+        "id": 10,
+        "arabic": "الْجَبَّار",
+        "reading": "Əl-Cabbar",
+        "meaning": "O, əzəmətli və qüdrətlidir. İstədiyini edən və istədiyini elətdirəndir. Ona qarşı etiraz etmək mümkün deyil.",
+        "reference": null
+    },
+    {
+        "id": 11,
+        "arabic": "الْمُتَكَبِّر",
+        "reading": "Əl-Mütəkəbbir",
+        "meaning": "Böyüklükdə tayı bərabəri olmayan.",
+        "reference": null
+    },
+    {
+        "id": 12,
+        "arabic": "الْخَالِق",
+        "reading": "Əl-Xaliq",
+        "meaning": "Yaradan, yoxdan var edən. Varlıqların keçirəcəyi halları təqdir edən.",
+        "reference": null
+    },
+    {
+        "id": 13,
+        "arabic": "الْبَارِئ",
+        "reading": "Əl-Bâri",
+        "meaning": "Hər şeyi mükəmməl və mütənasib şəkildə yaradan.",
+        "reference": null
+    },
+    {
+        "id": 14,
+        "arabic": "الْمُصَوِّر",
+        "reading": "Əl-Musəvvir",
+        "meaning": "Varlıqları formalaşdıran və onları müxtəlif xüsusiyyətlərlə yaradan.",
+        "reference": null
+    },
+    {
+        "id": 15,
+        "arabic": "الْغَفَّار",
+        "reading": "Əl-Qaffar",
+        "meaning": "Günahları örtən və çoxunu bağışlayan. O kəs ki, istədiyini günahdan qoruyar.",
+        "reference": null
+    },
+    {
+        "id": 16,
+        "arabic": "الْقَهَّار",
+        "reading": "Əl-Qəhhar",
+        "meaning": "İstədiyini etməyə qadir olan, qalib və hakim olan.",
+        "reference": null
+    },
+    {
+        "id": 17,
+        "arabic": "الْوَهَّاب",
+        "reading": "Əl-Vəhhab",
+        "meaning": "Qarşılıqsız nemət verən, çox ehsan verən.",
+        "reference": null
+    },
+    {
+        "id": 18,
+        "arabic": "الرَّزَّاق",
+        "reading": "Ər-Rəzzaq",
+        "meaning": "Hər bir varlığın ruzisini verən və ehtiyacını ödəyən.",
+        "reference": null
+    },
+    {
+        "id": 19,
+        "arabic": "الْفَتَّاح",
+        "reading": "Əl-Fəttah",
+        "meaning": "Hər cür bəlaların aradan qaldıran.",
+        "reference": null
+    },
+    {
+        "id": 20,
+        "arabic": "الْعَلِيم",
+        "reading": "Əl-Alim",
+        "meaning": "Əbədi və əzəli elmi ilə sirri və aşkarı, keçmişi, gələcəyi, hər şeyi bilən.",
+        "reference": null
+    },
+    {
+        "id": 21,
+        "arabic": "الْقَابِض",
+        "reading": "Əl-Qabid",
+        "meaning": "O kəs ki, istədiyinin ruzisini daraldar və ruhuhu alar.",
+        "reference": null
+    },
+    {
+        "id": 22,
+        "arabic": "الْبَاسِط",
+        "reading": "Əl-Basit",
+        "meaning": "O kəs ki, istədiyinin ruzisini genişləndirir və ruhunu verir.",
+        "reference": null
+    },
+    {
+        "id": 23,
+        "arabic": "الْخَافِض",
+        "reading": "Əl-Xafid",
+        "meaning": "O, kafirləri və fasiqləri zəlil edər.",
+        "reference": null
+    },
+    {
+        "id": 24,
+        "arabic": "الرَّافِع",
+        "reading": "Ər-Rafi",
+        "meaning": "Şərəf verib yüksəldən.",
+        "reference": null
+    },
+    {
+        "id": 25,
+        "arabic": "الْمُعِزّ",
+        "reading": "Əl-Muiz",
+        "meaning": "O kəs ki, istədiyini əzizləyir.",
+        "reference": null
+    },
+    {
+        "id": 26,
+        "arabic": "الْمُذِلّ",
+        "reading": "Əl-Muzil",
+        "meaning": "O kəs ki, istədiyini zəlil edər, xar edər və alçaq edər.",
+        "reference": null
+    },
+    {
+        "id": 27,
+        "arabic": "السَّمِيع",
+        "reading": "Əs-Səmi",
+        "meaning": "Hər şeyi ən yaxşı eşidən, duaları qəbul edən.",
+        "reference": null
+    },
+    {
+        "id": 28,
+        "arabic": "الْبَصِير",
+        "reading": "Əl-Bəsir",
+        "meaning": "Gizli açıq, hər şeyi ən yaxşı görən.",
+        "reference": null
+    },
+    {
+        "id": 29,
+        "arabic": "الْحَكَم",
+        "reading": "Əl-Hakəm",
+        "meaning": "Doğrudan batili ayıran mütləq hakim. Hikmət sahibi.",
+        "reference": null
+    },
+    {
+        "id": 30,
+        "arabic": "الْعَدْل",
+        "reading": "Əl-Adl",
+        "meaning": "Mütləq ədalətli, yerli yerində edən.",
+        "reference": null
+    },
+    {
+        "id": 31,
+        "arabic": "اللَّطِيف",
+        "reading": "Əl-Lətif",
+        "meaning": "Hər şeyi bilən, mərhəmətli və xeyirxah.",
+        "reference": null
+    },
+    {
+        "id": 32,
+        "arabic": "الْخَبِير",
+        "reading": "Əl-Xabir",
+        "meaning": "O, hər şeydən xəbərdardır. Hər şeyin gizli tərəfini bilir.",
+        "reference": null
+    },
+    {
+        "id": 33,
+        "arabic": "الْحَلِيم",
+        "reading": "Əl-Həlim",
+        "meaning": "Cəzada tələsməz, yumşaq davranar, hilm sahibi.",
+        "reference": null
+    },
+    {
+        "id": 34,
+        "arabic": "الْعَظِيم",
+        "reading": "Əl-Azim",
+        "meaning": "Böyüklükdə bənzəri olmayan. Çox uca.",
+        "reference": null
+    },
+    {
+        "id": 35,
+        "arabic": "الْغَفُور",
+        "reading": "Əl-Ğafur",
+        "meaning": "Əfvi, bağışlaması bol olan.",
+        "reference": null
+    },
+    {
+        "id": 36,
+        "arabic": "الشَّكُور",
+        "reading": "Əş-Şəkur",
+        "meaning": "Az əmələ çoxlu savab verən.",
+        "reference": null
+    },
+    {
+        "id": 37,
+        "arabic": "الْعَلِيّ",
+        "reading": "Əl-Aliyy",
+        "meaning": "Uca, çox yüksək.",
+        "reference": null
+    },
+    {
+        "id": 38,
+        "arabic": "الْكَبِير",
+        "reading": "Əl-Kəbir",
+        "meaning": "Böyüklükdə bənzəri yox. Çox böyük.",
+        "reference": null
+    },
+    {
+        "id": 39,
+        "arabic": "الْحَفِيظ",
+        "reading": "Əl-Hafiz",
+        "meaning": "Hər şeyin qoruyucusu.",
+        "reference": null
+    },
+    {
+        "id": 40,
+        "arabic": "الْمُقِيت",
+        "reading": "Əl-Muqit",
+        "meaning": "Ruzilərin yaradıcısı.",
+        "reference": null
+    },
+    {
+        "id": 41,
+        "arabic": "الْحَسِيب",
+        "reading": "Əl-Həsib",
+        "meaning": "Bəndələrin hesabını ən yaxşı görəndir.",
+        "reference": null
+    },
+    {
+        "id": 42,
+        "arabic": "الْجَلِيل",
+        "reading": "Əl-Cəlil",
+        "meaning": "Cəlal və əzəmət sahibi.",
+        "reference": null
+    },
+    {
+        "id": 43,
+        "arabic": "الْكَرِيم",
+        "reading": "Əl-Kərim",
+        "meaning": "Səxavətlə, bol lütf və xeyirxahlıqla verən və çox verən.",
+        "reference": null
+    },
+    {
+        "id": 44,
+        "arabic": "الرَّقِيب",
+        "reading": "Ər-Rəqib",
+        "meaning": "Hər zaman hər varlığı, hər işi seyr edən. O, bütün işlərə cavabdehdir.",
+        "reference": null
+    },
+    {
+        "id": 45,
+        "arabic": "الْمُجِيب",
+        "reading": "Əl-Mucib",
+        "meaning": "Dua və istəkləri qəbul edən.",
+        "reference": null
+    },
+    {
+        "id": 46,
+        "arabic": "الْوَاسِع",
+        "reading": "Əl-Vasi",
+        "meaning": "O kəs ki, mərhəmət və qüdrət sahibidir, elmi ilə hər şeyi əhatə edir.",
+        "reference": null
+    },
+    {
+        "id": 47,
+        "arabic": "الْحَكِيم",
+        "reading": "Əl-Hakim",
+        "meaning": "Hər şeyi hikmətli və hər şeyi hikmətlə yaradan.",
+        "reference": null
+    },
+    {
+        "id": 48,
+        "arabic": "الْوَدُود",
+        "reading": "Əl-Vədud",
+        "meaning": "Yaxşılığı sevən, yaxşılıq edənlərə xeyirxah olan. sevgiyə layiq.",
+        "reference": null
+    },
+    {
+        "id": 49,
+        "arabic": "الْمَجِيد",
+        "reading": "Əl-Məcid",
+        "meaning": "Neməti sonsuzdur, izzəti çox ucadır, hər cür tərifə layiqdir.",
+        "reference": null
+    },
+    {
+        "id": 50,
+        "arabic": "الْبَاعِث",
+        "reading": "Əl-Bais",
+        "meaning": "Axirətdə ölüləri dirildən, peyğəmbər göndərən.",
+        "reference": null
+    },
+    {
+        "id": 51,
+        "arabic": "الشَّهِيد",
+        "reading": "Əş-Şəhid",
+        "meaning": "Zamansız, məkansız, heç yerdə mövcud olmayan və həmişə hər yerdə mövcud olan.",
+        "reference": null
+    },
+    {
+        "id": 52,
+        "arabic": "الْحَقّ",
+        "reading": "Əl-Haqq",
+        "meaning": "Onun mövcudluğu dəyişməz olaraq qalır. Mövcud olan, haqqı ortaya çıxaran.",
+        "reference": null
+    },
+    {
+        "id": 53,
+        "arabic": "الْوَكِيل",
+        "reading": "Əl-Vəkil",
+        "meaning": "Qullarının işini bitirən. Ona güvənənlərin işini ən yaxşı nəticəyə çatdıran.",
+        "reference": null
+    },
+    {
+        "id": 54,
+        "arabic": "الْقَوِيّ",
+        "reading": "Əl-Qavi",
+        "meaning": "Onun qüdrəti üstündür və heç vaxt azalmır.",
+        "reference": null
+    },
+    {
+        "id": 55,
+        "arabic": "الْمَتِين",
+        "reading": "Əl-Mətin",
+        "meaning": "Güc və qüdrət mənbəyi, çox güclü.",
+        "reference": null
+    },
+    {
+        "id": 56,
+        "arabic": "الْوَلِيّ",
+        "reading": "Əl-Vəli",
+        "meaning": "Müsəlmanların dostu, onları sevən və onlara kömək edən.",
+        "reference": null
+    },
+    {
+        "id": 57,
+        "arabic": "الْحَمِيد",
+        "reading": "Əl-Hamid",
+        "meaning": "O, hər cür tərifə layiqdir.",
+        "reference": null
+    },
+    {
+        "id": 58,
+        "arabic": "الْمُحْصِي",
+        "reading": "Əl-Muhsi",
+        "meaning": "O yaratdığı və yaradacağı bütün varlıqların sayını bilir.",
+        "reference": null
+    },
+    {
+        "id": 59,
+        "arabic": "الْمُبْدِئ",
+        "reading": "Əl-Mübdi",
+        "meaning": "Maddəsiz, nümunəsiz Yaradan.",
+        "reference": null
+    },
+    {
+        "id": 60,
+        "arabic": "الْمُعِيد",
+        "reading": "Əl-Muid",
+        "meaning": "O kəs ki, məxluqatını məhv edəcək, sonra dirildəcək.",
+        "reference": null
+    },
+    {
+        "id": 61,
+        "arabic": "الْمُحْيِي",
+        "reading": "Əl-Muhyi",
+        "meaning": "Canlandıran, yaratdıqlarına can verən.",
+        "reference": null
+    },
+    {
+        "id": 62,
+        "arabic": "الْمُمِيت",
+        "reading": "Əl-Mümit",
+        "meaning": "Hər canlıya ölümü daddıran.",
+        "reference": null
+    },
+    {
+        "id": 63,
+        "arabic": "الْحَيّ",
+        "reading": "Əl-Hayy",
+        "meaning": "Əbədi həyatla diri olan biri.",
+        "reference": null
+    },
+    {
+        "id": 64,
+        "arabic": "الْقَيُّوم",
+        "reading": "Əl-Qəyyum",
+        "meaning": "Məxluqları varlıqda durduran. Zatı ilə möhkəm olan.",
+        "reference": null
+    },
+    {
+        "id": 65,
+        "arabic": "الْوَاجِد",
+        "reading": "Əl-Vacid",
+        "meaning": "Ondan heç bir şey gizli qalmayan, heç bir şeyə möhtac olmayan.",
+        "reference": null
+    },
+    {
+        "id": 66,
+        "arabic": "الْمَاجِد",
+        "reading": "Əl-Macid",
+        "meaning": "Böyük qüdrət və şöhrət sahibi olanın səxavəti çox olan.",
+        "reference": null
+    },
+    {
+        "id": 67,
+        "arabic": "الْوَاحِد",
+        "reading": "Əl-Vahid",
+        "meaning": "Yeganə odur ki, mahiyyətində, sifətində və felində oxşarı və ortağı yoxdur.",
+        "reference": null
+    },
+    {
+        "id": 68,
+        "arabic": "الصَّمَد",
+        "reading": "Əs-Saməd",
+        "meaning": "Heç nəyə ehtiyacı olmayan, hər kəsin möhtac olduğu.",
+        "reference": null
+    },
+    {
+        "id": 69,
+        "arabic": "الْقَادِر",
+        "reading": "Əl-Qadir",
+        "meaning": "O, istədiyini istədiyi kimi yaratmağa qadirdir.",
+        "reference": null
+    },
+    {
+        "id": 70,
+        "arabic": "الْمُقْتَدِر",
+        "reading": "Əl-Müqtədir",
+        "meaning": "İstədiyi kimi qənaət edən, hər şeyi rahatlıqla yaradan qüdrət sahibi.",
+        "reference": null
+    },
+    {
+        "id": 71,
+        "arabic": "الْمُقَدِّم",
+        "reading": "Əl-Muqəddim",
+        "meaning": "İstədiyini yüksəldən, önə sürən, irəli aparan.",
+        "reference": null
+    },
+    {
+        "id": 72,
+        "arabic": "الْمُؤَخِّر",
+        "reading": "Əl-Muaxxir",
+        "meaning": "İstədiyini alçaldan, geriyə, sona qoyan.",
+        "reference": null
+    },
+    {
+        "id": 73,
+        "arabic": "الأَوَّل",
+        "reading": "Əl-Əvvəl",
+        "meaning": "Əbədi, varlığın başlanğıcı olmayan.",
+        "reference": null
+    },
+    {
+        "id": 74,
+        "arabic": "الآخِر",
+        "reading": "Əl-Axir",
+        "meaning": "Əbədi olan, varlığın sonu olmayan.",
+        "reference": null
+    },
+    {
+        "id": 75,
+        "arabic": "الظَّاهِر",
+        "reading": "Əz-Zahir",
+        "meaning": "Yaratdıqları ilə varlığı aydın və aşkar olan, qəti dəlillərlə tanınan.",
+        "reference": null
+    },
+    {
+        "id": 76,
+        "arabic": "الْبَاطِن",
+        "reading": "Əl-Batin",
+        "meaning": "Ağlın təxəyyülündən gizli olan.",
+        "reference": null
+    },
+    {
+        "id": 77,
+        "arabic": "الْوَالِي",
+        "reading": "Əl-Vali",
+        "meaning": "Bütün kainatı idarə edən və onların işlərini nizama salan.",
+        "reference": null
+    },
+    {
+        "id": 78,
+        "arabic": "الْمُتَعَالِي",
+        "reading": "Əl-Mütəali",
+        "meaning": "Son dərəcə əzəmətli.",
+        "reference": null
+    },
+    {
+        "id": 79,
+        "arabic": "الْبَرّ",
+        "reading": "Əl-Bərr",
+        "meaning": "Yaxşılığı və ehsanı bol olan.",
+        "reference": null
+    },
+    {
+        "id": 80,
+        "arabic": "التَّوَّاب",
+        "reading": "Ət-Təvvab",
+        "meaning": "Tövbələri qəbul edib və günahları bağışlayan.",
+        "reference": null
+    },
+    {
+        "id": 81,
+        "arabic": "الْمُنْتَقِم",
+        "reading": "Əl-Müntəkim",
+        "meaning": "Üsyançıları və zalımları cəzalandıran.",
+        "reference": null
+    },
+    {
+        "id": 82,
+        "arabic": "الْعَفُوّ",
+        "reading": "Əl-Əfuvv",
+        "meaning": "Əfvi çox olan. Günahları bağışlayan.",
+        "reference": null
+    },
+    {
+        "id": 83,
+        "arabic": "الرَّؤُوف",
+        "reading": "Ər-Rauf",
+        "meaning": "Çox mərhəmətli, çox şəfqətli.",
+        "reference": null
+    },
+    {
+        "id": 84,
+        "arabic": "مَالِكُ الْمُلْك",
+        "reading": "Məlik-ül Mülk",
+        "meaning": "Bütün əmlakın sahibi.",
+        "reference": null
+    },
+    {
+        "id": 85,
+        "arabic": "ذُو الْجَلاَلِ وَالإِكْرَام",
+        "reading": "Zül-Cəlali vəl İkram",
+        "meaning": "Cəlal böyüklük, şərəf, kamillik və şərəf sahibi olan.",
+        "reference": null
+    },
+    {
+        "id": 86,
+        "arabic": "الْمُقْسِط",
+        "reading": "Əl-Muqsit",
+        "meaning": "Məzlumun haqqını alan, ədalətlə hökm edən, hər şeyi bir-birinə uyğun edən.",
+        "reference": null
+    },
+    {
+        "id": 87,
+        "arabic": "الْجَامِع",
+        "reading": "Əl-Cami",
+        "meaning": "İki əksin birləşməsi. Qiyamət günü bütün məxluqları bir yerə toplayan.",
+        "reference": null
+    },
+    {
+        "id": 88,
+        "arabic": "الْغَنِيّ",
+        "reading": "Əl-Ğəni",
+        "meaning": "Ehtiyacsız, möhtac olmayan hər şey Ona möhtacdır.",
+        "reference": null
+    },
+    {
+        "id": 89,
+        "arabic": "الْمُغْنِي",
+        "reading": "Əl-Muğni",
+        "meaning": "Müstəqil edən. Ehtiyacları bitirən, zəngin edən.",
+        "reference": null
+    },
+    {
+        "id": 90,
+        "arabic": "الْمَانِع",
+        "reading": "Əl-Mani",
+        "meaning": "İstəmədiyi şeyin qarşısını alan.",
+        "reference": null
+    },
+    {
+        "id": 91,
+        "arabic": "الضَّارّ",
+        "reading": "Əd-Darr",
+        "meaning": "Zərər verənlərin yaradıcısı.",
+        "reference": null
+    },
+    {
+        "id": 92,
+        "arabic": "النَّافِع",
+        "reading": "Ən-Nafi",
+        "meaning": "Faydalı şeylərin yaradıcısı.",
+        "reference": null
+    },
+    {
+        "id": 93,
+        "arabic": "النُّور",
+        "reading": "Ən-Nur",
+        "meaning": "Aləmləri nurlandıran və istədiyinə nur verən.",
+        "reference": null
+    },
+    {
+        "id": 94,
+        "arabic": "الْهَادِي",
+        "reading": "Əl-Hadi",
+        "meaning": "Hidayət verən.",
+        "reference": null
+    },
+    {
+        "id": 95,
+        "arabic": "الْبَدِيع",
+        "reading": "Əl-Bədi",
+        "meaning": "Analoqu olmayan, bənzərsiz möcüzələr yaradan. (Tayı bərabəri olmayan).",
+        "reference": null
+    },
+    {
+        "id": 96,
+        "arabic": "الْبَاقِي",
+        "reading": "Əl-Baqi",
+        "meaning": "O, əbədidir, sonu yoxdur.",
+        "reference": null
+    },
+    {
+        "id": 97,
+        "arabic": "الْوَارِث",
+        "reading": "Əl-Varis",
+        "meaning": "Hər şeyin əsl sahibi.",
+        "reference": null
+    },
+    {
+        "id": 98,
+        "arabic": "الرَّشِيد",
+        "reading": "Ər-Rəşid",
+        "meaning": "Hidayətə ehtiyacı olmayan, doğru yolu göstərən.",
+        "reference": null
+    },
+    {
+        "id": 99,
+        "arabic": "الصَّبُور",
+        "reading": "Əs-Sabur",
+        "meaning": "Cəza verməyə tələsməyən.",
         "reference": null
     }
 ]
