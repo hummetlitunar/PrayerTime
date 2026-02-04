@@ -5,5 +5,19 @@
     "description": "Müqəddəs Quranın Azərbaycan dilinə tərcüməsi.",
     "imageUrl": "https://www.iqrasense.com/wp-content/uploads/quran-english-pdf-transaltion.jpg",
     "pdfUrl": "https://d1.islamhouse.com/data/az/ih_books/single/az_qurani_Karim_Azarbaycan.pdf"
-  }
+  },
+  {
+    "id": 1,
+    "title": "Qurani Kərim (Ərəb dilində)",
+    "description": "Qurani-Kərim",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWEUrmhpEnGCAds-mWwWij0K5a5qUpNwHZEA&s",
+    "pdfUrl": "https://webdosya.diyanet.gov.tr/kuran/kuranikerim/dosyalar/document/kuran.pdf"
+  },
+  {
+    "id": 1,
+    "title": "Qurani Kərim (Türk dilində)",
+    "description": "Müqəddəs Quranın Türk dilinə tərcüməsi.",
+    "imageUrl": "https://drive.google.com/file/d/1i4AH2P9uR6Bmwg4aeuWLoTExwViwmG1R/preview",
+    "pdfUrl": "https://www.pdfquran.com/download/turkish/turkish-quran.pdf"
+  },
 ]
