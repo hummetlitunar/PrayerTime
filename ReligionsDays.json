@@ -6,8 +6,8 @@
   {
     "type": 1,
     "text": null,
-    "gregorianDate": "15.Yanvar.2026",
-    "hijriDate": "26.Rəcəb.1447",
+    "gregorianDate": "15 Yanvar 2026",
+    "hijriDate": "26 Rəcəb 1447",
     "eventName": "MERAC GECƏSİ",
     "dayOfWeek": "Cümə axşamı"
   },
@@ -18,8 +18,8 @@
   {
     "type": 1,
     "text": null,
-    "gregorianDate": "2.Fevral.2026",
-    "hijriDate": "14.Şaban.1447",
+    "gregorianDate": "2 Fevral 2026",
+    "hijriDate": "14 Şaban 1447",
     "eventName": "BƏRAƏT GECƏSİ",
     "dayOfWeek": "Bazar ertəsi"
   },
@@ -30,16 +30,16 @@
   {
     "type": 1,
     "text": null,
-    "gregorianDate": "19.Fevral.2026",
-    "hijriDate": "1.Ramazan.1447",
+    "gregorianDate": "19 Fevral 2026",
+    "hijriDate": "1 Ramazan 1447",
     "eventName": "RAMAZANI-ŞƏRİFİN BAŞLANĞICI",
     "dayOfWeek": "Cümə axşamı"
   },
   {
     "type": 1,
     "text": null,
-    "gregorianDate": "16.Mart.2026",
-    "hijriDate": "26.Ramazan.1447",
+    "gregorianDate": "16 Mart 2026",
+    "hijriDate": "26 Ramazan 1447",
     "eventName": "QƏDR GECƏSİ",
     "dayOfWeek": "Bazar ertəsi"
   },
@@ -50,24 +50,24 @@
   {
     "type": 1,
     "text": null,
-    "gregorianDate": "20.Mart.2026",
-    "hijriDate": "1.Şəvval.1447",
+    "gregorianDate": "20 Mart 2026",
+    "hijriDate": "1 Şəvval 1447",
     "eventName": "FİTR BAYRAMI (1-Cİ GÜN)",
     "dayOfWeek": "Cümə"
   },
   {
     "type": 1,
     "text": null,
-    "gregorianDate": "21.Mart.2026",
-    "hijriDate": "2.Şəvval.1447",
+    "gregorianDate": "21 Mart 2026",
+    "hijriDate": "2 Şəvval 1447",
     "eventName": "FİTR BAYRAMI (2-Cİ GÜN)",
     "dayOfWeek": "Şənbə"
   },
   {
     "type": 1,
     "text": null,
-    "gregorianDate": "22.Mart.2026",
-    "hijriDate": "3.Şəvval.1447",
+    "gregorianDate": "22 Mart 2026",
+    "hijriDate": "3 Şəvval 1447",
     "eventName": "FİTR BAYRAMI (3-Cİ GÜN)",
     "dayOfWeek": "Bazar"
   },
@@ -78,48 +78,48 @@
   {
     "type": 1,
     "text": null,
-    "gregorianDate": "25.May.2026",
-    "hijriDate": "8.Zilhiccə.1447",
+    "gregorianDate": "25 May 2026",
+    "hijriDate": "8 Zilhiccə 1447",
     "eventName": "TƏRVİYƏ GÜNÜ",
     "dayOfWeek": "Bazar ertəsi"
   },
   {
     "type": 1,
     "text": null,
-    "gregorianDate": "26.May.2026",
-    "hijriDate": "9.Zilhiccə.1447",
+    "gregorianDate": "26 May 2026",
+    "hijriDate": "9 Zilhiccə 1447",
     "eventName": "ƏRƏFƏ GÜNÜ",
     "dayOfWeek": "Çərşənbə axşamı"
   },
   {
     "type": 1,
     "text": null,
-    "gregorianDate": "27.May.2026",
-    "hijriDate": "10.Zilhiccə.1447",
+    "gregorianDate": "27 May 2026",
+    "hijriDate": "10 Zilhiccə 1447",
     "eventName": "QURBAN BAYRAMI (1-Cİ GÜN)",
     "dayOfWeek": "Çərşənbə"
   },
   {
     "type": 1,
     "text": null,
-    "gregorianDate": "28.May.2026",
-    "hijriDate": "11.Zilhiccə.1447",
+    "gregorianDate": "28 May 2026",
+    "hijriDate": "11 Zilhiccə 1447",
     "eventName": "QURBAN BAYRAMI (2-Cİ GÜN)",
     "dayOfWeek": "Cümə axşamı"
   },
   {
     "type": 1,
     "text": null,
-    "gregorianDate": "29.May.2026",
-    "hijriDate": "12.Zilhiccə.1447",
+    "gregorianDate": "29 May 2026",
+    "hijriDate": "12 Zilhiccə 1447",
     "eventName": "QURBAN BAYRAMI (3-Cİ GÜN)",
     "dayOfWeek": "Cümə"
   },
   {
     "type": 1,
     "text": null,
-    "gregorianDate": "30.May.2026",
-    "hijriDate": "13.Zilhiccə.1447",
+    "gregorianDate": "30 May 2026",
+    "hijriDate": "13 Zilhiccə 1447",
     "eventName": "QURBAN BAYRAMI (4-Cİ GÜN)",
     "dayOfWeek": "Şənbə"
   },
@@ -130,32 +130,32 @@
   {
     "type": 1,
     "text": null,
-    "gregorianDate": "15/16.Iyun.2026",
-    "hijriDate": "29.Zilhiccə.1447/1.Məhərrəm.1448",
+    "gregorianDate": "15/16 Iyun 2026",
+    "hijriDate": "29 Zilhiccə 1447/1 Məhərrəm 1448",
     "eventName": "HİCRİ YENİ İL GECƏSİ",
     "dayOfWeek": "Bazar ertəsi/Çərşənbə axşamı"
   },
   {
     "type": 1,
     "text": null,
-    "gregorianDate": "16.Iyun.2026",
-    "hijriDate": "1.Məhərrəm.1448",
+    "gregorianDate": "16 Iyun 2026",
+    "hijriDate": "1 Məhərrəm 1448",
     "eventName": "HİCRİ YENİ İL GÜNÜ",
     "dayOfWeek": "Çərşənbə axşamı"
   },
   {
     "type": 1,
     "text": null,
-    "gregorianDate": "24/25.Iyun.2026",
-    "hijriDate": "9/10.Məhərrəm.1448",
+    "gregorianDate": "24/25 Iyun 2026",
+    "hijriDate": "9/10 Məhərrəm 1448",
     "eventName": "AŞURƏ GECƏSİ",
     "dayOfWeek": "Çərşənbə/Cümə axşamı"
   },
   {
     "type": 1,
     "text": null,
-    "gregorianDate": "25.Iyun.2026",
-    "hijriDate": "10.Məhərrəm.1448",
+    "gregorianDate": "25 Iyun 2026",
+    "hijriDate": "10 Məhərrəm 1448",
     "eventName": "AŞURƏ GÜNÜ",
     "dayOfWeek": "Cümə axşamı"
   },
@@ -166,8 +166,8 @@
   {
     "type": 1,
     "text": null,
-    "gregorianDate": "24.Avqust.2026",
-    "hijriDate": "11.Rəbiüləvvəl.1448",
+    "gregorianDate": "24 Avqust 2026",
+    "hijriDate": "11 Rəbiüləvvəl 1448",
     "eventName": "MÖVLUD GÜNÜ",
     "dayOfWeek": "Bazar ertəsi"
   },
@@ -178,16 +178,16 @@
   {
     "type": 1,
     "text": null,
-    "gregorianDate": "10.Dekabr.2026",
-    "hijriDate": "1.Rəcəb.1448",
+    "gregorianDate": "10 Dekabr 2026",
+    "hijriDate": "1 Rəcəb 1448",
     "eventName": "ÜÇ AYLARIN BAŞLANĞICI",
     "dayOfWeek": "Cümə axşamı"
   },
   {
     "type": 1,
     "text": null,
-    "gregorianDate": "10.Dekabr.2026",
-    "hijriDate": "1.Rəcəb.1448",
+    "gregorianDate": "10 Dekabr 2026",
+    "hijriDate": "1 Rəcəb 1448",
     "eventName": "RƏQAİB GECƏSİ",
     "dayOfWeek": "Cümə axşamı"
   }
