@@ -33,5 +33,19 @@
     "description": "Qurani Kərimin sözbəsöz Azərbaycan dilinə tərcüməsi",
     "imageUrl": "https://drive.google.com/uc?export=download&id=1WZPTcllQHedONpCqegNwoRpGM17SWRmR",
     "pdfUrl": "https://drive.google.com/uc?export=download&id=1_LkN3Tn2ssyzrjl9jj9Ge36RgvwUa0zH"
+  },
+  {
+    "id": 6,
+    "title": "Namaz Təlimi",
+    "description": "Əlixan Musayev tərəfindən namazın təlimi kitabçası",
+    "imageUrl": "https://drive.google.com/uc?export=view&id=16Pd6aoTfPjfvhy1sDrH8yjUTHsBQeQfT",
+    "pdfUrl": "https://d1.islamhouse.com/data/az/ih_books/single/az-namaz-telimi.pdf"
+  },
+  {
+    "id": 7,
+    "title": "Namazın Müxtəsər Təlimi",
+    "description": "Namaz təlimi kitabçası",
+    "imageUrl": "https://drive.google.com/uc?export=view&id=1kXw9ib9UfhUBT6wHOHagQ4Jq98jh1GgX",
+    "pdfUrl": "https://islamevi.az/app/storage/2023/08/media-namaz_telimi-r60u8z.pdf"
   }
 ]
