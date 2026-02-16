@@ -30,7 +30,7 @@
   {
     "type": 1,
     "text": null,
-    "gregorianDate": "18 Fevral 2026",
+    "gregorianDate": "19 Fevral 2026",
     "hijriDate": "1 Ramazan 1447",
     "eventName": "RAMAZANI-ŞƏRİFİN BAŞLANĞICI",
     "dayOfWeek": "Cümə axşamı"
@@ -42,6 +42,14 @@
     "hijriDate": "26 Ramazan 1447",
     "eventName": "QƏDR GECƏSİ",
     "dayOfWeek": "Bazar ertəsi"
+  },
+  {
+    "type": 1,
+    "text": null,
+    "gregorianDate": "19 Mart 2026",
+    "hijriDate": "29 Ramazan 1447",
+    "eventName": "RAMAZANI-ŞƏRİFİN SONU",
+    "dayOfWeek": "Cümə axşamı"
   },
   {
     "type": 0,
