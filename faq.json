@@ -10,5 +10,9 @@
   {
     "question": "Bildirişlər niyə gəlmir?",
     "answer": "Telefonunuzun parametrlərindən tətbiqə bildiriş icazəsi verdiyinizdən və batareya qənaət rejiminin tətbiqi məhdudlaşdırmadığından əmin olun."
-  }
+  },
+   {
+    "question": "Təhəccüd namazı nədir? Necə qılınır?",
+    "answer": "Təhəccüd namazı gecənin bir hissəsində (əsasən gecənin son üçdə birində) yuxudan duraraq qılınan nafilə namazdır. Yatsı namazından sonra başlayıb sabah namazına qədər qılına bilər. Ən az 2, əsasən 8, 12 rükət kimi qılınır. 2+2... artırmaqla istənilən rükət qədər qılına bilər. Təhəccüd namazı mütləq yuxudan oyandıqdan sonra qılınmalıdır. Yatmadan qılınarsa təhəccüd namazı olmur."
+  },
 ]
